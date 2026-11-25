@@ -4,6 +4,15 @@
   <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="200"/>
 </p>
 
+<p align="center">
+  <a href="https://github.com/releases/latest">
+    <img src="https://img.shields.io/badge/⬇%20Download-Latest%20Release-yellow?style=for-the-badge" alt="Download"/>
+  </a>
+  <a href="https://github.com/releases">
+    <img src="https://img.shields.io/badge/📦%20All%20Versions-Releases-orange?style=for-the-badge" alt="Releases"/>
+  </a>
+</p>
+
 🕹️ **Terraria — Homeward Journey** — Lore-rich adventure and quest content mod for Terraria. Terraria — Homeward Journey helps you embark on a narrative-driven quest adventure in Terraria with new story content and unique rewards.
 
 ---
